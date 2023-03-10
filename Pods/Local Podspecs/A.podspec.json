@@ -1,0 +1,33 @@
+{
+  "name": "A",
+  "version": "1",
+  "swift_versions": "5.1",
+  "summary": "A.",
+  "description": "this is A",
+  "homepage": "https://github.com/BigCatMr/A",
+  "license": {
+    "type": "MIT",
+    "file": "FILE_LICENSE"
+  },
+  "authors": {
+    "CasaTaloyum": "casatwy@msn.com"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "git": "https://github.com/BigCatMr/A.git",
+    "tag": "1"
+  },
+  "source_files": [
+    "A/Source/**/*.{h,m,swift}",
+    "A/Extension/*.{h,m,swift}"
+  ],
+  "requires_arc": true,
+  "dependencies": {
+    "CTMediator": [
+
+    ]
+  },
+  "swift_version": "5.1"
+}
