@@ -6,7 +6,7 @@
 #  To see working Podspecs in the CocoaPods repo see https://github.com/CocoaPods/Specs/
 #
 
-# version.develop = 2
+# version.develop = 3
 # version.test = 0
 # version.gray = 0
 
@@ -20,7 +20,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "MainProject"
-  s.version      = "2.0.0"
+  s.version      = "3.0.0"
   s.swift_version = '5.1'
   s.summary      = "MainProject."
 
